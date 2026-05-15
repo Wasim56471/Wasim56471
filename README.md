@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Ahmad Wasim Wardak 👋
 
-<!--
-**Wasim56471/Wasim56471** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MSc Applied Artificial Intelligence student at London South Bank University, with experience in data analysis, machine learning, deep learning, NLP, and AI-powered applications.
 
-Here are some ideas to get you started:
+## 🔬 Current Interests
+- Machine Learning and Deep Learning
+- Computer Vision for Medical Imaging
+- Retrieval-Augmented Generation
+- NLP and AI Chatbots
+- Humanitarian Data Analytics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- Brain Tumour Classification using CNNs
+- Ulcerative Colitis Histology Severity Prediction
+- Medical Assistant Chatbot using LangChain
+- Humanitarian Data RAG Assistant for Afghanistan datasets
